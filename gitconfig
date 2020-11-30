@@ -47,5 +47,5 @@
 [branch "master"]
   mergeoptions = --no-edit
 [user]
-	email = kuron3ko@gmail.com
-	name = Ian Chin
+	email = Chin
+	name = Ian
